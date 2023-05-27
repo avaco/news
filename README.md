@@ -1,5 +1,6 @@
 # news
 Collections of news sorces
+
  **name**                 | **url**                                                 | **country** 
 --------------------------|---------------------------------------------------------|-------------
  BBC                      | https://www.bbc.com/news                                | UK          
@@ -20,28 +21,23 @@ Collections of news sorces
  The Economic Times       | https://economictimes.indiatimes.com/news/international | India       
  Dawn                     | https://www.dawn.com/international                      | Pakistan    
  The Australian           | https://www.theaustralian.com.au/world                  | Australia   
- Al Jazera                | https://www.aljazeera.com/                              | Qatar 
+ Euronews                 | https://es.euronews.com/                                | Francia     
+ Al Jazera                | https://www.aljazeera.com/                              | Qatar       
+ CBS News                 | https://www.cbsnews.com/                                | USA         
+ The Daily Beast          | http://www.thedailybeast.com/                           | USA         
+ The Hindu                | https://www.thehindu.com/                               | India       
+ The Huffington Post      | https://www.huffpost.com/                               | USA         
+ ABC News                 | https://abcnews.go.com/                                 | USA         
+ Agence France-Presse     | https://www.afp.com/en                                  | France      
+ Al Arabiya               | https://english.alarabiya.net/                          | Dubai       
+ France 24                | https://www.france24.com/en/                            | France      
+ NPR                      | https://www.npr.org/                                    | USA         
+                          |                                                         |             
 
 
 
 ##General
-Al Jazeera
-Associated Press
-BBC News
-Bloomberg News
-Breitbart News
-CBS News
-CNN
-The Daily Beast
-The Guardian
-The Hindu
-The Huffington Post
-The New York Times
-The Wall Street Journal
-The Washington Post
-ABC News
-Agence France-Presse
-Al Arabiya
+
 Al-Monitor
 APTN
 AP Worldstream
@@ -51,17 +47,14 @@ C-SPAN
 CBS News Radio
 CNN International
 Fox News Channel
-France 24
+
 Huffington Post Live
 MSNBC
 NPR
 RT
 Sky News
 The Associated Press Television News
-The Daily Show with Trevor Noah
-The Late Show with Stephen Colbert
-The Rachel Maddow Show
-The Tonight Show Starring Jimmy Fallon
+
 Vice News
 Al Jazeera America
 BNO News
@@ -80,8 +73,7 @@ The Jerusalem Post
 The Korea Times
 The Los Angeles Times
 The New York Post
-The New York Review of Books
-The New York Times Book Review
+
 The New Yorker
 The Observer
 The Outline
