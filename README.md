@@ -4,28 +4,25 @@ Collections of news sorces
 | Website	| Link |
 -----------------------------------------
 | BBC News |	https://www.bbc.com/news |
--------------------------------------------
 | CNN	| https://www.cnn.com/ |
-------------------------------------------
 | Reuters |	https://www.reuters.com/ |
--------------------------------------------
-The Guardian	https://www.theguardian.com/international
-NPR	https://www.npr.org/sections/news/
-The New York Times	https://www.nytimes.com/section/world
-The Washington Post	https://www.washingtonpost.com/world/
-The Wall Street Journal	https://www.wsj.com/news/world
-Financial Times	https://www.ft.com/world
-TIME	https://time.com/world/
-Bloomberg	https://www.bloomberg.com/international
-CNBC	https://www.cnbc.com/world-top-news-and-analysis/
-Fox News	https://www.foxnews.com/world
-SCMP	https://www.scmp.com/news/asia
-The Japan Times	https://www.japantimes.co.jp/news/
-The Economic Times (India)	https://economictimes.indiatimes.com/news/international
-Dawn (Pakistan)	https://www.dawn.com/international
-The Australian	https://www.theaustralian.com.au/world
-The Globe and Mail (Canada)	https://www.theglobeandmail.com/world/
-The Irish Times	https://www.irishtimes.com/news/world
+| The Guardian |	https://www.theguardian.com/international |
+| NPR |	https://www.npr.org/sections/news/ |
+| The New York Times |	https://www.nytimes.com/section/world |
+| The Washington Post |	https://www.washingtonpost.com/world/ |
+| The Wall Street Journal |	https://www.wsj.com/news/world |
+| Financial Times |	https://www.ft.com/world |
+| TIME |	https://time.com/world/ |
+| Bloomberg |	https://www.bloomberg.com/international |
+| CNBC |	https://www.cnbc.com/world-top-news-and-analysis/ |
+| Fox News |	https://www.foxnews.com/world |
+| SCMP |	https://www.scmp.com/news/asia |
+| The Japan Times |	https://www.japantimes.co.jp/news/ |
+| The Economic Times (India) |	https://economictimes.indiatimes.com/news/international |
+| Dawn (Pakistan) |	https://www.dawn.com/international |
+| The Australian |	https://www.theaustralian.com.au/world |
+| The Globe and Mail (Canada) |	https://www.theglobeandmail.com/world/ |
+| The Irish Times |	https://www.irishtimes.com/news/world |
 
 
 ##General
