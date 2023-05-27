@@ -20,6 +20,7 @@ Collections of news sorces
  The Economic Times       | https://economictimes.indiatimes.com/news/international | India       
  Dawn                     | https://www.dawn.com/international                      | Pakistan    
  The Australian           | https://www.theaustralian.com.au/world                  | Australia   
+ Al Jazera                | https://www.aljazeera.com/                              | Qatar 
 
 
 
