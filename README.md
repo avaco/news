@@ -1,28 +1,26 @@
 # news
 Collections of news sorces
+ **name**                 | **url**                                                 | **country** 
+--------------------------|---------------------------------------------------------|-------------
+ BBC                      | https://www.bbc.com/news                                | UK          
+ CNN                      | https://www.cnn.com/                                    | USA         
+ Reuters                  | https://www.reuters.com/                                | UK          
+ The Guardian             | https://www.theguardian.com/international               | UK          
+ NPR                      | https://www.npr.org/sections/news/                      | USA         
+ The New York Times       | https://www.nytimes.com/section/world                   | USA         
+ The Washington Post      | https://www.washingtonpost.com/world/                   | USA         
+ The Wall Street Journal  | https://www.wsj.com/news/world                          | USA         
+ Financial Times          | https://www.ft.com/world                                | UK          
+ TIME                     | https://time.com/world/                                 | USA         
+ Bloomberg                | https://www.bloomberg.com/international                 | USA         
+ CNBC                     | https://www.cnbc.com/world-top-news-and-analysis/       | USA         
+ Fox News                 | https://www.foxnews.com/world                           | USA         
+ South China Morning Post | https://www.scmp.com/news/asia                          | Hong Kong   
+ The Japan Times          | https://www.japantimes.co.jp/news/                      | Japan       
+ The Economic Times       | https://economictimes.indiatimes.com/news/international | India       
+ Dawn                     | https://www.dawn.com/international                      | Pakistan    
+ The Australian           | https://www.theaustralian.com.au/world                  | Australia   
 
-| Website	| Link |
------------------------------------------
-| BBC News |	https://www.bbc.com/news |
-| CNN	| https://www.cnn.com/ |
-| Reuters |	https://www.reuters.com/ |
-| The Guardian |	https://www.theguardian.com/international |
-| NPR |	https://www.npr.org/sections/news/ |
-| The New York Times |	https://www.nytimes.com/section/world |
-| The Washington Post |	https://www.washingtonpost.com/world/ |
-| The Wall Street Journal |	https://www.wsj.com/news/world |
-| Financial Times |	https://www.ft.com/world |
-| TIME |	https://time.com/world/ |
-| Bloomberg |	https://www.bloomberg.com/international |
-| CNBC |	https://www.cnbc.com/world-top-news-and-analysis/ |
-| Fox News |	https://www.foxnews.com/world |
-| SCMP |	https://www.scmp.com/news/asia |
-| The Japan Times |	https://www.japantimes.co.jp/news/ |
-| The Economic Times (India) |	https://economictimes.indiatimes.com/news/international |
-| Dawn (Pakistan) |	https://www.dawn.com/international |
-| The Australian |	https://www.theaustralian.com.au/world |
-| The Globe and Mail (Canada) |	https://www.theglobeandmail.com/world/ |
-| The Irish Times |	https://www.irishtimes.com/news/world |
 
 
 ##General
