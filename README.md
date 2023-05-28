@@ -37,11 +37,11 @@ Collections of news sorces
 
  **NAME **                               | ** URL **                                    | ** COUNTRY** 
 -----------------------------------------|----------------------------------------------|--------------
- 1. TechCrunch                           |  https://techcrunch.com                      |  USA         
- 2. Wired                                |  https://www.wired.com                       |  USA         
- 3. The Verge                            |  https://www.theverge.com                    |  USA         
- 4. Gizmodo                              |  https://gizmodo.com                         |  USA         
- 5. CNET                                 |  https://www.cnet.com                        |  USA         
+TechCrunch                           |  https://techcrunch.com                      |  USA         
+Wired                                |  https://www.wired.com                       |  USA         
+The Verge                            |  https://www.theverge.com                    |  USA         
+Gizmodo                              |  https://gizmodo.com                         |  USA         
+CNET                                 |  https://www.cnet.com                        |  USA         
  6. Engadget                             |  https://www.engadget.com                    |  USA         
  7. ZDNet                                |  https://www.zdnet.com                       |  USA         
  8. Mashable                             |  https://mashable.com                        |  USA         
@@ -87,9 +87,7 @@ Collections of news sorces
  48. Techgage                            |  https://techgage.com                        |  USA         
  49. TechPowerUp                         |  https://www.techpowerup.com                 |  USA         
  50. HotHardware                         |  https://hothardware.com                     |  USA         
- 48. Techgage                            | https://techgage.com                         | USA          
- TechPowerUp                             | https://www.techpowerup.com -                | USA          
- HotHardware                             | hothardware.com                              | USA          
+ 
 
 
 
