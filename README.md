@@ -36,7 +36,7 @@ Collections of news sorces
 
 ##TECH
 
-                                         |                                              |          
+**name**                 | **url**                                                 | **country**     
 -----------------------------------------|----------------------------------------------|----------
  **1. TechCrunch **                      | ** https://techcrunch.com **                 | ** USA** 
  2. Wired                                |  https://www.wired.com                       |  USA     
