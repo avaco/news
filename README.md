@@ -48,47 +48,47 @@ Engadget                             |  https://www.engadget.com               
 ZDNet                                |  https://www.zdnet.com                      |  USA         
 Mashable                             |  https://mashable.com                       |  USA         
 Ars Technica                         |  https://arstechnica.com                    |  USA         
-VentureBeat                         |  https://venturebeat.com                     |  USA         
-Digital Trends                      |  https://www.digitaltrends.com               |  USA         
-PCMag                               |  https://www.pcmag.com                       |  USA         
-Tom's Guide                         |  https://www.tomsguide.com                   |  USA         
-TechRadar                           |  https://www.techradar.com                   |  USA         
-Slashdot                            |  https://slashdot.org                        |  USA         
-TechSpot                            |  https://www.techspot.com                    |  USA         
-TechRepublic                        |  https://www.techrepublic.com                |  USA         
-The Next Web                        |  https://thenextweb.com                      |  USA         
-Android Authority                   |  https://www.androidauthority.com            |  USA         
-9to5Mac                             |  https://9to5mac.com                         |  USA         
-MacRumors                           |  https://www.macrumors.com                   |  USA         
-iMore                               |  https://www.imore.com                       |  USA         
-Apple Insider                       |  https://appleinsider.com                    |  USA         
-Forbes Tech                         |  https://www.forbes.com/technology           |  USA         
-Bloomberg Technology                |  https://www.bloomberg.com/technology        |  USA         
-CNBC Technology                     |  https://www.cnbc.com/technology             |  USA         
-CNN Tech                            |  https://www.cnn.com/business/tech           |  USA         
-USA Today Tech                      |  https://www.usatoday.com/tech               |  USA         
-The New York Times Technology       |  https://www.nytimes.com/section/technology  |  USA         
-The Wall Street Journal Technology  |  https://www.wsj.com/news/technology         |  USA         
-Reuters Technology                  |  https://www.reuters.com/technology          |  USA         
-TechTarget                          |  https://www.techtarget.com                  |  USA         
-InformationWeek                     |  https://www.informationweek.com             |  USA         
-eWeek                               |  https://www.eweek.com                       |  USA         
-Computerworld                       |  https://www.computerworld.com               |  USA         
-Ziff Davis                          |  https://www.ziffdavis.com                   |  USA         
-IDG                                 |  https://www.idg.com                         |  USA         
-Gigaom                              |  https://gigaom.com                          |  USA         
-GeekWire                            |  https://www.geekwire.com                    |  USA         
-The Information                     |  https://www.theinformation.com              |  USA         
-Recode                              |  https://www.recode.net                      |  USA         
-Techdirt                            |  https://www.techdirt.com                    |  USA         
-The Register                        |  https://www.theregister.com                 |  USA         
-Techmeme                            |  https://www.techmeme.com                    |  USA         
-BetaNews                            |  https://betanews.com                        |  USA         
-ExtremeTech                         |  https://www.extremetech.com                 |  USA         
-AnandTech                           |  https://www.anandtech.com                   |  USA         
-Techgage                            |  https://techgage.com                        |  USA         
-TechPowerUp                         |  https://www.techpowerup.com                 |  USA         
-HotHardware                         |  https://hothardware.com                     |  USA         
+VentureBeat                         |  https://venturebeat.com                    |  USA         
+Digital Trends                      |  https://www.digitaltrends.com              |  USA         
+PCMag                               |  https://www.pcmag.com                      |  USA         
+Tom's Guide                         |  https://www.tomsguide.com                  |  USA         
+TechRadar                           |  https://www.techradar.com                  |  USA         
+Slashdot                            |  https://slashdot.org                       |  USA         
+TechSpot                            |  https://www.techspot.com                   |  USA         
+TechRepublic                        |  https://www.techrepublic.com               |  USA         
+The Next Web                        |  https://thenextweb.com                     |  USA         
+Android Authority                   |  https://www.androidauthority.com           |  USA         
+9to5Mac                             |  https://9to5mac.com                        |  USA         
+MacRumors                           |  https://www.macrumors.com                  |  USA         
+iMore                               |  https://www.imore.com                      |  USA         
+Apple Insider                       |  https://appleinsider.com                   |  USA         
+Forbes Tech                         |  https://www.forbes.com/technology          |  USA         
+Bloomberg Technology                |  https://www.bloomberg.com/technology       |  USA         
+CNBC Technology                     |  https://www.cnbc.com/technology            |  USA         
+CNN Tech                            |  https://www.cnn.com/business/tech          |  USA         
+USA Today Tech                      |  https://www.usatoday.com/tech              |  USA         
+The New York Times Technology       |  https://www.nytimes.com/section/technology |  USA         
+The Wall Street Journal Technology  |  https://www.wsj.com/news/technology        |  USA         
+Reuters Technology                  |  https://www.reuters.com/technology         |  USA         
+TechTarget                          |  https://www.techtarget.com                 |  USA         
+InformationWeek                     |  https://www.informationweek.com            |  USA         
+eWeek                               |  https://www.eweek.com                      |  USA         
+Computerworld                       |  https://www.computerworld.com              |  USA         
+Ziff Davis                          |  https://www.ziffdavis.com                  |  USA         
+IDG                                 |  https://www.idg.com                        |  USA         
+Gigaom                              |  https://gigaom.com                         |  USA         
+GeekWire                            |  https://www.geekwire.com                   |  USA         
+The Information                     |  https://www.theinformation.com             |  USA         
+Recode                              |  https://www.recode.net                     |  USA         
+Techdirt                            |  https://www.techdirt.com                   |  USA         
+The Register                        |  https://www.theregister.com                |  USA         
+Techmeme                            |  https://www.techmeme.com                   |  USA         
+BetaNews                            |  https://betanews.com                       |  USA         
+ExtremeTech                         |  https://www.extremetech.com                |  USA         
+AnandTech                           |  https://www.anandtech.com                  |  USA         
+Techgage                            |  https://techgage.com                       |  USA         
+TechPowerUp                         |  https://www.techpowerup.com                |  USA         
+HotHardware                         |  https://hothardware.com                    |  USA         
  
 
 
