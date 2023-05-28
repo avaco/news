@@ -39,15 +39,15 @@ Collections of news sorces
 
  **NAME**                               | **URL**                                    | **COUNTRY** 
 -----------------------------------------|----------------------------------------------|--------------
-TechCrunch                           |  https://techcrunch.com                      |  USA         
-Wired                                |  https://www.wired.com                       |  USA         
-The Verge                            |  https://www.theverge.com                    |  USA         
-Gizmodo                              |  https://gizmodo.com                         |  USA         
-CNET                                 |  https://www.cnet.com                        |  USA         
-Engadget                             |  https://www.engadget.com                    |  USA         
-ZDNet                                |  https://www.zdnet.com                       |  USA         
-Mashable                             |  https://mashable.com                        |  USA         
-Ars Technica                         |  https://arstechnica.com                     |  USA         
+TechCrunch                           |  https://techcrunch.com                   |  USA         
+Wired                                |  https://www.wired.com                      |  USA         
+The Verge                            |  https://www.theverge.com                   |  USA         
+Gizmodo                              |  https://gizmodo.com                        |  USA         
+CNET                                 |  https://www.cnet.com                       |  USA         
+Engadget                             |  https://www.engadget.com                   |  USA         
+ZDNet                                |  https://www.zdnet.com                      |  USA         
+Mashable                             |  https://mashable.com                       |  USA         
+Ars Technica                         |  https://arstechnica.com                    |  USA         
 VentureBeat                         |  https://venturebeat.com                     |  USA         
 Digital Trends                      |  https://www.digitaltrends.com               |  USA         
 PCMag                               |  https://www.pcmag.com                       |  USA         
