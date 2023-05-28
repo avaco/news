@@ -35,7 +35,9 @@ Collections of news sorces
 
 ###
 
- **NAME **                               | ** URL **                                    | ** COUNTRY** 
+## TECHNOLOGY
+
+ **NAME**                               | **URL**                                    | **COUNTRY** 
 -----------------------------------------|----------------------------------------------|--------------
 TechCrunch                           |  https://techcrunch.com                      |  USA         
 Wired                                |  https://www.wired.com                       |  USA         
